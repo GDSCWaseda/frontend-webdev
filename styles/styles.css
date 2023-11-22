@@ -1,0 +1,30 @@
+body {
+	background-color: #F8FDCF;
+}
+
+h1 {
+	color: #6edbc5; 
+	text-align: center;
+}
+
+h2 {
+	color: #6edbc5;
+	text-align: center;
+}
+
+nav {
+	background: #78C1F3;
+	padding: 15px;
+	text-align: center;
+}
+
+nav a {
+	color: #E2F6CA;
+	text-decoration: none;
+	margin: 0 15px;
+	font-size: 18px;
+}
+
+nav a:hover {
+	color: #9BE8D8;
+}
